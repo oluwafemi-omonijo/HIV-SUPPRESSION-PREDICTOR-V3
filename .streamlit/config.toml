@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="#3B82F6"
+backgroundColor="#0B0F14"
+secondaryBackgroundColor="#0F172A"
+textColor="#E5E7EB"
+font="sans serif"
+[server]
+pythonVersion = "3.10"
